@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AMDProject</string>
+    <string name="welcome_to_the_app">Welcome To the App!</string>
+    <string name="homepage">HomePage</string>
+    <string name="message_page">Message Page</string>
+    <string name="location_page">Location Page</string>
+    <string name="HomePage_bio">This is the homepage for my Advanced Mobile Development Project, Please select either the messaging or location icon to continue.</string>
+    <string name="add_chat">Add Chat</string>
+    <string name="send">Send</string>
+    <string name="log_out">Log Out</string>
+    <string name="post_title_goes_here">Post Title Goes Here</string>
+    <string name="post_description_goes_here">Post Description goes here</string>
+    <string name="email">Email</string>
+</resources>

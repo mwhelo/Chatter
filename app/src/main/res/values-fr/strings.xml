@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AMDProject</string>
+    <string name="welcome_to_the_app">Bienvenue sur lApp!</string>
+    <string name="homepage">Accueil</string>
+    <string name="message_page">Message Page</string>
+    <string name="location_page">Page demplacement</string>
+    <string name="HomePage_bio">Il sagit de la page daccueil de mon projet de développement mobile avancé. Sélectionnez licône de messagerie ou demplacement pour continuer.</string>
+</resources>
