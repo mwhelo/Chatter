@@ -4,5 +4,11 @@
     <string name="homepage">Accueil</string>
     <string name="message_page">Message Page</string>
     <string name="location_page">Page demplacement</string>
-    <string name="HomePage_bio">Il sagit de la page daccueil de mon projet de développement mobile avancé. Sélectionnez licône de messagerie ou demplacement pour continuer.</string>
+    <string name="HomePage_bio">Cest la page daccueil de mon application de développement mobile avancé, Vous avez deux options, soit cliquez sur licône de messagerie pour parler à dautres utilisateurs ou licône plus pour créer des publications sur le blog.</string>
+    <string name="add_chat">Ajouter un chat</string>
+    <string name="send">Envoyer</string>
+    <string name="log_out">Connectez - Out</string>
+    <string name="post_title_goes_here">Le titre du message va ici</string>
+    <string name="post_description_goes_here">La description du poste va ici</string>
+    <string name="email">Email</string>
 </resources>

@@ -4,5 +4,11 @@
     <string name="homepage">Startseite</string>
     <string name="message_page">Meldungsseite</string>
     <string name="location_page">Standort Seite</string>
-    <string name="HomePage_bio">Dies ist die Homepage für mein Advanced Mobile Development Project, bitte wählen Sie entweder das Messaging- oder Location-Icon, um fortzufahren.</string>
+    <string name="HomePage_bio">Dies ist die Homepage für meine Advanced Mobile Development Social Application, Sie haben zwei Optionen entweder auf das Messaging-Symbol klicken, um mit anderen Benutzern oder dem Plus-Symbol zu sprechen, um Blog-Posts zu machen.</string>
+    <string name="add_chat">Chat hinzufügen</string>
+    <string name="send">Senden</string>
+    <string name="log_out">Ausloggen</string>
+    <string name="post_title_goes_here">Beitrag Titel geht hier</string>
+    <string name="post_description_goes_here">Post Beschreibung geht hier</string>
+    <string name="email">Email</string>
 </resources>
